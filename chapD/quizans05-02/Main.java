@@ -1,7 +1,7 @@
 public class Main {
   public static void main(String[] args) {
     String title = "お誘い";
-    String address = "uso800@xxxx.com";
+    String address = "dummy@xxxx.com";
     String text = "今度、飲みにいきませんか";
     email(title, address, text);
   }

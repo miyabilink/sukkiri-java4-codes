@@ -2,7 +2,6 @@ public class Main {
   public static void main(String[] args) {
     introduceOneself();
   }
-
   public static void introduceOneself() {
     String name = "Minato";
     int age = 22;

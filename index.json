@@ -129,17 +129,6 @@
         "isCompileError": true,
         "isRuntimeError": null,
         "loadMessage": null
-      },
-      {
-        "id": "quizans01-02",
-        "label_header": "",
-        "label": "練習1-2の解答",
-        "sourceFiles": [
-          "Main.java"
-        ],
-        "isCompileError": false,
-        "isRuntimeError": false,
-        "loadMessage": null
       }
     ]
   },
@@ -333,17 +322,6 @@
         "isCompileError": false,
         "isRuntimeError": false,
         "loadMessage": null
-      },
-      {
-        "id": "quizans02-03",
-        "label_header": "",
-        "label": "練習2-3の解答",
-        "sourceFiles": [
-          "Main.java"
-        ],
-        "isCompileError": false,
-        "isRuntimeError": false,
-        "loadMessage": null
       }
     ]
   },
@@ -454,39 +432,6 @@
         "id": "quiz03-04",
         "label_header": "",
         "label": "練習3-4",
-        "sourceFiles": [
-          "Main.java"
-        ],
-        "isCompileError": false,
-        "isRuntimeError": false,
-        "loadMessage": null
-      },
-      {
-        "id": "quizans03-03",
-        "label_header": "",
-        "label": "練習3-3の解答",
-        "sourceFiles": [
-          "Main.java"
-        ],
-        "isCompileError": false,
-        "isRuntimeError": false,
-        "loadMessage": null
-      },
-      {
-        "id": "quizans03-05",
-        "label_header": "",
-        "label": "練習3-5の解答",
-        "sourceFiles": [
-          "Main.java"
-        ],
-        "isCompileError": false,
-        "isRuntimeError": false,
-        "loadMessage": null
-      },
-      {
-        "id": "quizans03-06",
-        "label_header": "",
-        "label": "練習3-6の解答",
         "sourceFiles": [
           "Main.java"
         ],
@@ -719,39 +664,6 @@
         "isCompileError": false,
         "isRuntimeError": true,
         "loadMessage": null
-      },
-      {
-        "id": "quizans04-01",
-        "label_header": "",
-        "label": "練習4-1の解答",
-        "sourceFiles": [
-          "Main.java"
-        ],
-        "isCompileError": false,
-        "isRuntimeError": false,
-        "loadMessage": null
-      },
-      {
-        "id": "quizans04-02",
-        "label_header": "",
-        "label": "練習4-2の解答",
-        "sourceFiles": [
-          "Main.java"
-        ],
-        "isCompileError": false,
-        "isRuntimeError": false,
-        "loadMessage": null
-      },
-      {
-        "id": "quizans04-04",
-        "label_header": "",
-        "label": "練習4-4の解答",
-        "sourceFiles": [
-          "Main.java"
-        ],
-        "isCompileError": false,
-        "isRuntimeError": false,
-        "loadMessage": null
       }
     ]
   },
@@ -912,50 +824,6 @@
         "isCompileError": false,
         "isRuntimeError": false,
         "loadMessage": null
-      },
-      {
-        "id": "quizans05-01",
-        "label_header": "",
-        "label": "練習5-1の解答",
-        "sourceFiles": [
-          "Main.java"
-        ],
-        "isCompileError": false,
-        "isRuntimeError": false,
-        "loadMessage": null
-      },
-      {
-        "id": "quizans05-02",
-        "label_header": "",
-        "label": "練習5-2の解答",
-        "sourceFiles": [
-          "Main.java"
-        ],
-        "isCompileError": false,
-        "isRuntimeError": false,
-        "loadMessage": null
-      },
-      {
-        "id": "quizans05-03",
-        "label_header": "",
-        "label": "練習5-3の解答",
-        "sourceFiles": [
-          "Main.java"
-        ],
-        "isCompileError": false,
-        "isRuntimeError": false,
-        "loadMessage": null
-      },
-      {
-        "id": "quizans05-04",
-        "label_header": "",
-        "label": "練習5-4の解答",
-        "sourceFiles": [
-          "Main.java"
-        ],
-        "isCompileError": false,
-        "isRuntimeError": false,
-        "loadMessage": null
       }
     ]
   },
@@ -1083,32 +951,6 @@
         "label": "練習6-1",
         "sourceFiles": [
           "Main.java"
-        ],
-        "isCompileError": false,
-        "isRuntimeError": false,
-        "loadMessage": null
-      },
-      {
-        "id": "quizans06-01",
-        "label_header": "",
-        "label": "練習6-1の解答",
-        "sourceFiles": [
-          "Main.java",
-          "Zenhan.java",
-          "Kouhan.java"
-        ],
-        "isCompileError": false,
-        "isRuntimeError": false,
-        "loadMessage": null
-      },
-      {
-        "id": "quizans06-03",
-        "label_header": "",
-        "label": "練習6-3の解答",
-        "sourceFiles": [
-          "Kouhan.java",
-          "Main.java",
-          "Zenhan.java"
         ],
         "isCompileError": false,
         "isRuntimeError": false,
@@ -1571,17 +1413,6 @@
         "isCompileError": false,
         "isRuntimeError": false,
         "loadMessage": null
-      },
-      {
-        "id": "quizans09-01",
-        "label_header": "",
-        "label": "練習9-1の解答",
-        "sourceFiles": [
-          "Thief.java"
-        ],
-        "isCompileError": false,
-        "isRuntimeError": true,
-        "loadMessage": null
       }
     ]
   },
@@ -1737,18 +1568,6 @@
         "label_header": "",
         "label": "練習10-3",
         "sourceFiles": [
-          "Matango.java"
-        ],
-        "isCompileError": false,
-        "isRuntimeError": true,
-        "loadMessage": null
-      },
-      {
-        "id": "quizans10-03",
-        "label_header": "",
-        "label": "練習10-3の解答",
-        "sourceFiles": [
-          "PoisonMatango.java",
           "Matango.java"
         ],
         "isCompileError": false,
@@ -1989,55 +1808,6 @@
         "isCompileError": false,
         "isRuntimeError": true,
         "loadMessage": null
-      },
-      {
-        "id": "quizans11-01",
-        "label_header": "",
-        "label": "練習11-1の解答",
-        "sourceFiles": [
-          "TangibleAsset.java",
-          "Book.java",
-          "Computer.java"
-        ],
-        "isCompileError": false,
-        "isRuntimeError": true,
-        "loadMessage": null
-      },
-      {
-        "id": "quizans11-02",
-        "label_header": "",
-        "label": "練習11-2の解答",
-        "sourceFiles": [
-          "Asset.java",
-          "TangibleAsset.java"
-        ],
-        "isCompileError": false,
-        "isRuntimeError": true,
-        "loadMessage": null
-      },
-      {
-        "id": "quizans11-03",
-        "label_header": "",
-        "label": "練習11-3の解答",
-        "sourceFiles": [
-          "Thing.java"
-        ],
-        "isCompileError": false,
-        "isRuntimeError": true,
-        "loadMessage": null
-      },
-      {
-        "id": "quizans11-04",
-        "label_header": "",
-        "label": "練習11-4の解答",
-        "sourceFiles": [
-          "TangibleAsset.java",
-          "Asset.java",
-          "Thing.java"
-        ],
-        "isCompileError": false,
-        "isRuntimeError": true,
-        "loadMessage": null
       }
     ]
   },
@@ -2200,21 +1970,6 @@
         ],
         "isCompileError": false,
         "isRuntimeError": true,
-        "loadMessage": null
-      },
-      {
-        "id": "quizans12-03",
-        "label_header": "",
-        "label": "練習12-3の解答",
-        "sourceFiles": [
-          "Main.java",
-          "A.java",
-          "B.java",
-          "X.java",
-          "Y.java"
-        ],
-        "isCompileError": false,
-        "isRuntimeError": false,
         "loadMessage": null
       }
     ]
@@ -2418,45 +2173,6 @@
         "isCompileError": false,
         "isRuntimeError": true,
         "loadMessage": null
-      },
-      {
-        "id": "quizans13-01",
-        "label_header": "",
-        "label": "練習13-1の解答",
-        "sourceFiles": [
-          "Wand.java",
-          "Wizard.java",
-          "Hero.java"
-        ],
-        "isCompileError": true,
-        "isRuntimeError": null,
-        "loadMessage": null
-      },
-      {
-        "id": "quizans13-03",
-        "label_header": "",
-        "label": "練習13-3の解答",
-        "sourceFiles": [
-          "Wand.java",
-          "Wizard.java",
-          "Hero.java"
-        ],
-        "isCompileError": false,
-        "isRuntimeError": true,
-        "loadMessage": null
-      },
-      {
-        "id": "quizans13-04",
-        "label_header": "",
-        "label": "練習13-4の解答",
-        "sourceFiles": [
-          "Wand.java",
-          "Wizard.java",
-          "Hero.java"
-        ],
-        "isCompileError": false,
-        "isRuntimeError": true,
-        "loadMessage": null
       }
     ]
   },
@@ -2638,17 +2354,6 @@
         ],
         "isCompileError": true,
         "isRuntimeError": null,
-        "loadMessage": null
-      },
-      {
-        "id": "quizans14-01",
-        "label_header": "",
-        "label": "練習14-1の解答",
-        "sourceFiles": [
-          "Account.java"
-        ],
-        "isCompileError": false,
-        "isRuntimeError": true,
         "loadMessage": null
       }
     ]
@@ -2844,50 +2549,6 @@
         "isCompileError": false,
         "isRuntimeError": false,
         "loadMessage": null
-      },
-      {
-        "id": "quizans15-01",
-        "label_header": "",
-        "label": "練習15-1の解答",
-        "sourceFiles": [
-          "Main.java"
-        ],
-        "isCompileError": false,
-        "isRuntimeError": false,
-        "loadMessage": null
-      },
-      {
-        "id": "quizans15-02",
-        "label_header": "",
-        "label": "練習15-2の解答",
-        "sourceFiles": [
-          "Main.java"
-        ],
-        "isCompileError": false,
-        "isRuntimeError": false,
-        "loadMessage": null
-      },
-      {
-        "id": "quizans15-04",
-        "label_header": "",
-        "label": "練習15-4の解答",
-        "sourceFiles": [
-          "Main.java"
-        ],
-        "isCompileError": false,
-        "isRuntimeError": false,
-        "loadMessage": null
-      },
-      {
-        "id": "quizans15-05",
-        "label_header": "",
-        "label": "練習15-5の解答",
-        "sourceFiles": [
-          "Main.java"
-        ],
-        "isCompileError": false,
-        "isRuntimeError": false,
-        "loadMessage": null
       }
     ]
   },
@@ -2992,30 +2653,6 @@
         ],
         "isCompileError": false,
         "isRuntimeError": true,
-        "loadMessage": null
-      },
-      {
-        "id": "quizans16-02",
-        "label_header": "",
-        "label": "練習16-2の解答",
-        "sourceFiles": [
-          "Main.java",
-          "Hero.java"
-        ],
-        "isCompileError": false,
-        "isRuntimeError": false,
-        "loadMessage": null
-      },
-      {
-        "id": "quizans16-03",
-        "label_header": "",
-        "label": "練習16-3の解答",
-        "sourceFiles": [
-          "Main.java",
-          "Hero.java"
-        ],
-        "isCompileError": false,
-        "isRuntimeError": false,
         "loadMessage": null
       }
     ]
@@ -3168,50 +2805,6 @@
         "isCompileError": false,
         "isRuntimeError": true,
         "loadMessage": null
-      },
-      {
-        "id": "quizans17-01",
-        "label_header": "",
-        "label": "練習17-1の解答",
-        "sourceFiles": [
-          "Main.java"
-        ],
-        "isCompileError": false,
-        "isRuntimeError": true,
-        "loadMessage": null
-      },
-      {
-        "id": "quizans17-02",
-        "label_header": "",
-        "label": "練習17-2の解答",
-        "sourceFiles": [
-          "Main.java"
-        ],
-        "isCompileError": false,
-        "isRuntimeError": false,
-        "loadMessage": null
-      },
-      {
-        "id": "quizans17-03",
-        "label_header": "",
-        "label": "練習17-3の解答",
-        "sourceFiles": [
-          "Main.java"
-        ],
-        "isCompileError": false,
-        "isRuntimeError": false,
-        "loadMessage": null
-      },
-      {
-        "id": "quizans17-04",
-        "label_header": "",
-        "label": "練習17-4の解答",
-        "sourceFiles": [
-          "Main.java"
-        ],
-        "isCompileError": false,
-        "isRuntimeError": true,
-        "loadMessage": null
       }
     ]
   },
@@ -3295,6 +2888,419 @@
         "isCompileError": true,
         "isRuntimeError": null,
         "loadMessage": "このコードはサーブレットの開発環境が必要なため、dokojavaでは正しく実行できません"
+      }
+    ]
+  },
+  {
+    "id": "chapD",
+    "label": "付録D 練習問題の解答",
+    "children": [
+      {
+        "id": "quizans01-02",
+        "label_header": "",
+        "label": "練習1-2の解答",
+        "sourceFiles": [
+          "Main.java"
+        ],
+        "isCompileError": false,
+        "isRuntimeError": false,
+        "loadMessage": null
+      },
+      {
+        "id": "quizans02-03",
+        "label_header": "",
+        "label": "練習2-3の解答",
+        "sourceFiles": [
+          "Main.java"
+        ],
+        "isCompileError": false,
+        "isRuntimeError": false,
+        "loadMessage": null
+      },
+      {
+        "id": "quizans03-03",
+        "label_header": "",
+        "label": "練習3-3の解答",
+        "sourceFiles": [
+          "Main.java"
+        ],
+        "isCompileError": false,
+        "isRuntimeError": false,
+        "loadMessage": null
+      },
+      {
+        "id": "quizans03-05",
+        "label_header": "",
+        "label": "練習3-5の解答",
+        "sourceFiles": [
+          "Main.java"
+        ],
+        "isCompileError": false,
+        "isRuntimeError": false,
+        "loadMessage": null
+      },
+      {
+        "id": "quizans03-06",
+        "label_header": "",
+        "label": "練習3-6の解答",
+        "sourceFiles": [
+          "Main.java"
+        ],
+        "isCompileError": false,
+        "isRuntimeError": false,
+        "loadMessage": null
+      },
+      {
+        "id": "quizans04-01",
+        "label_header": "",
+        "label": "練習4-1の解答",
+        "sourceFiles": [
+          "Main.java"
+        ],
+        "isCompileError": false,
+        "isRuntimeError": false,
+        "loadMessage": null
+      },
+      {
+        "id": "quizans04-02",
+        "label_header": "",
+        "label": "練習4-2の解答",
+        "sourceFiles": [
+          "Main.java"
+        ],
+        "isCompileError": false,
+        "isRuntimeError": false,
+        "loadMessage": null
+      },
+      {
+        "id": "quizans04-04",
+        "label_header": "",
+        "label": "練習4-4の解答",
+        "sourceFiles": [
+          "Main.java"
+        ],
+        "isCompileError": false,
+        "isRuntimeError": false,
+        "loadMessage": null
+      },
+      {
+        "id": "quizans05-01",
+        "label_header": "",
+        "label": "練習5-1の解答",
+        "sourceFiles": [
+          "Main.java"
+        ],
+        "isCompileError": false,
+        "isRuntimeError": false,
+        "loadMessage": null
+      },
+      {
+        "id": "quizans05-02",
+        "label_header": "",
+        "label": "練習5-2の解答",
+        "sourceFiles": [
+          "Main.java"
+        ],
+        "isCompileError": false,
+        "isRuntimeError": false,
+        "loadMessage": null
+      },
+      {
+        "id": "quizans05-03",
+        "label_header": "",
+        "label": "練習5-3の解答",
+        "sourceFiles": [
+          "Main.java"
+        ],
+        "isCompileError": false,
+        "isRuntimeError": false,
+        "loadMessage": null
+      },
+      {
+        "id": "quizans05-04",
+        "label_header": "",
+        "label": "練習5-4の解答",
+        "sourceFiles": [
+          "Main.java"
+        ],
+        "isCompileError": false,
+        "isRuntimeError": false,
+        "loadMessage": null
+      },
+      {
+        "id": "quizans06-01",
+        "label_header": "",
+        "label": "練習6-1の解答",
+        "sourceFiles": [
+          "Main.java",
+          "Zenhan.java",
+          "Kouhan.java"
+        ],
+        "isCompileError": false,
+        "isRuntimeError": false,
+        "loadMessage": null
+      },
+      {
+        "id": "quizans06-03",
+        "label_header": "",
+        "label": "練習6-3の解答",
+        "sourceFiles": [
+          "Kouhan.java",
+          "Main.java",
+          "Zenhan.java"
+        ],
+        "isCompileError": false,
+        "isRuntimeError": false,
+        "loadMessage": null
+      },
+      {
+        "id": "quizans09-01",
+        "label_header": "",
+        "label": "練習9-1の解答",
+        "sourceFiles": [
+          "Thief.java"
+        ],
+        "isCompileError": false,
+        "isRuntimeError": true,
+        "loadMessage": null
+      },
+      {
+        "id": "quizans10-03",
+        "label_header": "",
+        "label": "練習10-3の解答",
+        "sourceFiles": [
+          "PoisonMatango.java",
+          "Matango.java"
+        ],
+        "isCompileError": false,
+        "isRuntimeError": true,
+        "loadMessage": null
+      },
+      {
+        "id": "quizans11-01",
+        "label_header": "",
+        "label": "練習11-1の解答",
+        "sourceFiles": [
+          "TangibleAsset.java",
+          "Book.java",
+          "Computer.java"
+        ],
+        "isCompileError": false,
+        "isRuntimeError": true,
+        "loadMessage": null
+      },
+      {
+        "id": "quizans11-02",
+        "label_header": "",
+        "label": "練習11-2の解答",
+        "sourceFiles": [
+          "Asset.java",
+          "TangibleAsset.java"
+        ],
+        "isCompileError": false,
+        "isRuntimeError": true,
+        "loadMessage": null
+      },
+      {
+        "id": "quizans11-03",
+        "label_header": "",
+        "label": "練習11-3の解答",
+        "sourceFiles": [
+          "Thing.java"
+        ],
+        "isCompileError": false,
+        "isRuntimeError": true,
+        "loadMessage": null
+      },
+      {
+        "id": "quizans11-04",
+        "label_header": "",
+        "label": "練習11-4の解答",
+        "sourceFiles": [
+          "TangibleAsset.java",
+          "Asset.java",
+          "Thing.java"
+        ],
+        "isCompileError": false,
+        "isRuntimeError": true,
+        "loadMessage": null
+      },
+      {
+        "id": "quizans12-03",
+        "label_header": "",
+        "label": "練習12-3の解答",
+        "sourceFiles": [
+          "Main.java",
+          "A.java",
+          "B.java",
+          "X.java",
+          "Y.java"
+        ],
+        "isCompileError": false,
+        "isRuntimeError": false,
+        "loadMessage": null
+      },
+      {
+        "id": "quizans13-01",
+        "label_header": "",
+        "label": "練習13-1の解答",
+        "sourceFiles": [
+          "Wand.java",
+          "Wizard.java",
+          "Hero.java"
+        ],
+        "isCompileError": true,
+        "isRuntimeError": null,
+        "loadMessage": null
+      },
+      {
+        "id": "quizans13-03",
+        "label_header": "",
+        "label": "練習13-3の解答",
+        "sourceFiles": [
+          "Wand.java",
+          "Wizard.java",
+          "Hero.java"
+        ],
+        "isCompileError": false,
+        "isRuntimeError": true,
+        "loadMessage": null
+      },
+      {
+        "id": "quizans13-04",
+        "label_header": "",
+        "label": "練習13-4の解答",
+        "sourceFiles": [
+          "Wand.java",
+          "Wizard.java",
+          "Hero.java"
+        ],
+        "isCompileError": false,
+        "isRuntimeError": true,
+        "loadMessage": null
+      },
+      {
+        "id": "quizans14-01",
+        "label_header": "",
+        "label": "練習14-1の解答",
+        "sourceFiles": [
+          "Account.java"
+        ],
+        "isCompileError": false,
+        "isRuntimeError": true,
+        "loadMessage": null
+      },
+      {
+        "id": "quizans15-01",
+        "label_header": "",
+        "label": "練習15-1の解答",
+        "sourceFiles": [
+          "Main.java"
+        ],
+        "isCompileError": false,
+        "isRuntimeError": false,
+        "loadMessage": null
+      },
+      {
+        "id": "quizans15-02",
+        "label_header": "",
+        "label": "練習15-2の解答",
+        "sourceFiles": [
+          "Main.java"
+        ],
+        "isCompileError": false,
+        "isRuntimeError": false,
+        "loadMessage": null
+      },
+      {
+        "id": "quizans15-04",
+        "label_header": "",
+        "label": "練習15-4の解答",
+        "sourceFiles": [
+          "Main.java"
+        ],
+        "isCompileError": false,
+        "isRuntimeError": false,
+        "loadMessage": null
+      },
+      {
+        "id": "quizans15-05",
+        "label_header": "",
+        "label": "練習15-5の解答",
+        "sourceFiles": [
+          "Main.java"
+        ],
+        "isCompileError": false,
+        "isRuntimeError": false,
+        "loadMessage": null
+      },
+      {
+        "id": "quizans16-02",
+        "label_header": "",
+        "label": "練習16-2の解答",
+        "sourceFiles": [
+          "Main.java",
+          "Hero.java"
+        ],
+        "isCompileError": false,
+        "isRuntimeError": false,
+        "loadMessage": null
+      },
+      {
+        "id": "quizans16-03",
+        "label_header": "",
+        "label": "練習16-3の解答",
+        "sourceFiles": [
+          "Main.java",
+          "Hero.java"
+        ],
+        "isCompileError": false,
+        "isRuntimeError": false,
+        "loadMessage": null
+      },
+      {
+        "id": "quizans17-01",
+        "label_header": "",
+        "label": "練習17-1の解答",
+        "sourceFiles": [
+          "Main.java"
+        ],
+        "isCompileError": false,
+        "isRuntimeError": true,
+        "loadMessage": null
+      },
+      {
+        "id": "quizans17-02",
+        "label_header": "",
+        "label": "練習17-2の解答",
+        "sourceFiles": [
+          "Main.java"
+        ],
+        "isCompileError": false,
+        "isRuntimeError": false,
+        "loadMessage": null
+      },
+      {
+        "id": "quizans17-03",
+        "label_header": "",
+        "label": "練習17-3の解答",
+        "sourceFiles": [
+          "Main.java"
+        ],
+        "isCompileError": false,
+        "isRuntimeError": false,
+        "loadMessage": null
+      },
+      {
+        "id": "quizans17-04",
+        "label_header": "",
+        "label": "練習17-4の解答",
+        "sourceFiles": [
+          "Main.java"
+        ],
+        "isCompileError": false,
+        "isRuntimeError": true,
+        "loadMessage": null
       }
     ]
   }

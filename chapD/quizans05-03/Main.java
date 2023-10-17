@@ -1,6 +1,6 @@
 public class Main {
   public static void main(String[] args) {
-    String address = "uso800@xxxx.com";
+    String address = "dummy@xxxx.com";
     String text = "今度、飲みにいきませんか";
     email(address, text);
   }
