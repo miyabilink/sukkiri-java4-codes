@@ -2896,21 +2896,9 @@
     "label": "付録D 練習問題の解答",
     "children": [
       {
-        "id": "quizexp01-01",
-        "label_header": "",
-        "label": "練習1-1の解説",
-        "sourceFiles": [
-          "ANSWER.java",
-          "EXPLAIN.java"
-        ],
-        "isCompileError": false,
-        "isRuntimeError": false,
-        "loadMessage": null
-      },
-      {
         "id": "quizans01-02",
         "label_header": "",
-        "label": "練習1-2の解答",
+        "label": "練習1-2の解答例コード",
         "sourceFiles": [
           "Main.java"
         ],
@@ -2919,34 +2907,9 @@
         "loadMessage": null
       },
       {
-        "id": "quizexp01-02",
-        "label_header": "",
-        "label": "練習1-2の解説",
-        "sourceFiles": [
-          "Main.java",
-          "ANSWER.java",
-          "EXPLAIN.java"
-        ],
-        "isCompileError": false,
-        "isRuntimeError": false,
-        "loadMessage": null
-      },
-      {
-        "id": "quizexp01-03",
-        "label_header": "",
-        "label": "練習1-3の解説",
-        "sourceFiles": [
-          "ANSWER.java",
-          "EXPLAIN.java"
-        ],
-        "isCompileError": false,
-        "isRuntimeError": false,
-        "loadMessage": null
-      },
-      {
         "id": "quizans02-03",
         "label_header": "",
-        "label": "練習2-3の解答",
+        "label": "練習2-3の解答例コード",
         "sourceFiles": [
           "Main.java"
         ],
@@ -2957,7 +2920,7 @@
       {
         "id": "quizans03-03",
         "label_header": "",
-        "label": "練習3-3の解答",
+        "label": "練習3-3の解答例コード",
         "sourceFiles": [
           "Main.java"
         ],
@@ -2968,7 +2931,7 @@
       {
         "id": "quizans03-05",
         "label_header": "",
-        "label": "練習3-5の解答",
+        "label": "練習3-5の解答例コード",
         "sourceFiles": [
           "Main.java"
         ],
@@ -2979,7 +2942,7 @@
       {
         "id": "quizans03-06",
         "label_header": "",
-        "label": "練習3-6の解答",
+        "label": "練習3-6の解答例コード",
         "sourceFiles": [
           "Main.java"
         ],
@@ -2990,7 +2953,7 @@
       {
         "id": "quizans04-01",
         "label_header": "",
-        "label": "練習4-1の解答",
+        "label": "練習4-1の解答例コード",
         "sourceFiles": [
           "Main.java"
         ],
@@ -3001,7 +2964,7 @@
       {
         "id": "quizans04-02",
         "label_header": "",
-        "label": "練習4-2の解答",
+        "label": "練習4-2の解答例コード",
         "sourceFiles": [
           "Main.java"
         ],
@@ -3012,7 +2975,7 @@
       {
         "id": "quizans04-04",
         "label_header": "",
-        "label": "練習4-4の解答",
+        "label": "練習4-4の解答例コード",
         "sourceFiles": [
           "Main.java"
         ],
@@ -3023,7 +2986,7 @@
       {
         "id": "quizans05-01",
         "label_header": "",
-        "label": "練習5-1の解答",
+        "label": "練習5-1の解答例コード",
         "sourceFiles": [
           "Main.java"
         ],
