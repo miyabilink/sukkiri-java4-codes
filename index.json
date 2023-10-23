@@ -2997,7 +2997,7 @@
       {
         "id": "quizans05-02",
         "label_header": "",
-        "label": "練習5-2の解答",
+        "label": "練習5-2の解答例コード",
         "sourceFiles": [
           "Main.java"
         ],
@@ -3008,7 +3008,7 @@
       {
         "id": "quizans05-03",
         "label_header": "",
-        "label": "練習5-3の解答",
+        "label": "練習5-3の解答例コード",
         "sourceFiles": [
           "Main.java"
         ],
@@ -3019,7 +3019,7 @@
       {
         "id": "quizans05-04",
         "label_header": "",
-        "label": "練習5-4の解答",
+        "label": "練習5-4の解答例コード",
         "sourceFiles": [
           "Main.java"
         ],
@@ -3030,7 +3030,7 @@
       {
         "id": "quizans06-01",
         "label_header": "",
-        "label": "練習6-1の解答",
+        "label": "練習6-1の解答例コード",
         "sourceFiles": [
           "Main.java",
           "Zenhan.java",
@@ -3043,7 +3043,7 @@
       {
         "id": "quizans06-03",
         "label_header": "",
-        "label": "練習6-3の解答",
+        "label": "練習6-3の解答例コード",
         "sourceFiles": [
           "Kouhan.java",
           "Main.java",
@@ -3056,7 +3056,7 @@
       {
         "id": "quizans09-01",
         "label_header": "",
-        "label": "練習9-1の解答",
+        "label": "練習9-1の解答例コード",
         "sourceFiles": [
           "Thief.java"
         ],
@@ -3067,7 +3067,7 @@
       {
         "id": "quizans10-03",
         "label_header": "",
-        "label": "練習10-3の解答",
+        "label": "練習10-3の解答例コード",
         "sourceFiles": [
           "PoisonMatango.java",
           "Matango.java"
@@ -3079,7 +3079,7 @@
       {
         "id": "quizans11-01",
         "label_header": "",
-        "label": "練習11-1の解答",
+        "label": "練習11-1の解答例コード",
         "sourceFiles": [
           "TangibleAsset.java",
           "Book.java",
@@ -3092,7 +3092,7 @@
       {
         "id": "quizans11-02",
         "label_header": "",
-        "label": "練習11-2の解答",
+        "label": "練習11-2の解答例コード",
         "sourceFiles": [
           "Asset.java",
           "TangibleAsset.java"
@@ -3104,7 +3104,7 @@
       {
         "id": "quizans11-03",
         "label_header": "",
-        "label": "練習11-3の解答",
+        "label": "練習11-3の解答例コード",
         "sourceFiles": [
           "Thing.java"
         ],
@@ -3115,7 +3115,7 @@
       {
         "id": "quizans11-04",
         "label_header": "",
-        "label": "練習11-4の解答",
+        "label": "練習11-4の解答例コード",
         "sourceFiles": [
           "TangibleAsset.java",
           "Asset.java",
@@ -3128,7 +3128,7 @@
       {
         "id": "quizans12-03",
         "label_header": "",
-        "label": "練習12-3の解答",
+        "label": "練習12-3の解答例コード",
         "sourceFiles": [
           "Main.java",
           "A.java",
@@ -3143,7 +3143,7 @@
       {
         "id": "quizans13-01",
         "label_header": "",
-        "label": "練習13-1の解答",
+        "label": "練習13-1の解答例コード",
         "sourceFiles": [
           "Wand.java",
           "Wizard.java",
@@ -3156,7 +3156,7 @@
       {
         "id": "quizans13-03",
         "label_header": "",
-        "label": "練習13-3の解答",
+        "label": "練習13-3の解答例コード",
         "sourceFiles": [
           "Wand.java",
           "Wizard.java",
@@ -3169,7 +3169,7 @@
       {
         "id": "quizans13-04",
         "label_header": "",
-        "label": "練習13-4の解答",
+        "label": "練習13-4の解答例コード",
         "sourceFiles": [
           "Wand.java",
           "Wizard.java",
@@ -3182,7 +3182,7 @@
       {
         "id": "quizans14-01",
         "label_header": "",
-        "label": "練習14-1の解答",
+        "label": "練習14-1の解答例コード",
         "sourceFiles": [
           "Account.java"
         ],
@@ -3193,7 +3193,7 @@
       {
         "id": "quizans15-01",
         "label_header": "",
-        "label": "練習15-1の解答",
+        "label": "練習15-1の解答例コード",
         "sourceFiles": [
           "Main.java"
         ],
@@ -3204,7 +3204,7 @@
       {
         "id": "quizans15-02",
         "label_header": "",
-        "label": "練習15-2の解答",
+        "label": "練習15-2の解答例コード",
         "sourceFiles": [
           "Main.java"
         ],
@@ -3215,7 +3215,7 @@
       {
         "id": "quizans15-04",
         "label_header": "",
-        "label": "練習15-4の解答",
+        "label": "練習15-4の解答例コード",
         "sourceFiles": [
           "Main.java"
         ],
@@ -3226,7 +3226,7 @@
       {
         "id": "quizans15-05",
         "label_header": "",
-        "label": "練習15-5の解答",
+        "label": "練習15-5の解答例コード",
         "sourceFiles": [
           "Main.java"
         ],
@@ -3237,7 +3237,7 @@
       {
         "id": "quizans16-02",
         "label_header": "",
-        "label": "練習16-2の解答",
+        "label": "練習16-2の解答例コード",
         "sourceFiles": [
           "Main.java",
           "Hero.java"
@@ -3249,7 +3249,7 @@
       {
         "id": "quizans16-03",
         "label_header": "",
-        "label": "練習16-3の解答",
+        "label": "練習16-3の解答例コード",
         "sourceFiles": [
           "Main.java",
           "Hero.java"
@@ -3261,7 +3261,7 @@
       {
         "id": "quizans17-01",
         "label_header": "",
-        "label": "練習17-1の解答",
+        "label": "練習17-1の解答例コード",
         "sourceFiles": [
           "Main.java"
         ],
@@ -3272,7 +3272,7 @@
       {
         "id": "quizans17-02",
         "label_header": "",
-        "label": "練習17-2の解答",
+        "label": "練習17-2の解答例コード",
         "sourceFiles": [
           "Main.java"
         ],
@@ -3283,7 +3283,7 @@
       {
         "id": "quizans17-03",
         "label_header": "",
-        "label": "練習17-3の解答",
+        "label": "練習17-3の解答例コード",
         "sourceFiles": [
           "Main.java"
         ],
@@ -3294,7 +3294,7 @@
       {
         "id": "quizans17-04",
         "label_header": "",
-        "label": "練習17-4の解答",
+        "label": "練習17-4の解答例コード",
         "sourceFiles": [
           "Main.java"
         ],
