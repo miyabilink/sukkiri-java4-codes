@@ -376,7 +376,7 @@
       {
         "id": "code03-05",
         "label_header": "コード3-5",
-        "label": "case文に複数の値を指定する",
+        "label": "caseラベルに複数の値を指定する",
         "sourceFiles": [
           "Main.java"
         ],
