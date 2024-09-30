@@ -3,7 +3,7 @@ public class Account {
   int balance;             // 残額
   /* ①文字列表現のメソッド */
   public String toString() {
-    return "¥¥" + this.balance + "（口座番号：" + this.accountNumber + "）";
+    return "\\" + this.balance + "（口座番号：" + this.accountNumber + "）";
   }
   /* ②等価判定のメソッド */
   public boolean equals(Object o) {
