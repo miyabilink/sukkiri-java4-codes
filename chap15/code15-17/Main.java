@@ -2,8 +2,8 @@ import java.time.*;
 
 public class Main {
   public static void main(String[] args) {
-    LocalDate d1 = LocalDate.of(2020,1,1);
-    LocalDate d2 = LocalDate.of(2020,1,4);
+    LocalDate d1 = LocalDate.of(2023,1,1);
+    LocalDate d2 = LocalDate.of(2023,1,4);
 
     // 3日間を表すPeriodを2通りの方法で生成
     Period p1 = Period.ofDays(3);

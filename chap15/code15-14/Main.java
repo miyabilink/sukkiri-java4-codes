@@ -11,7 +11,7 @@ public class Main {
 
     // ZonedDateTimeの生成方法
     ZonedDateTime z1 = ZonedDateTime.now();
-    ZonedDateTime z2 = ZonedDateTime.of(2020, 1, 2, 3, 4, 5, 6, ZoneId.of("Asia/Tokyo"));
+    ZonedDateTime z2 = ZonedDateTime.of(2023, 1, 2, 3, 4, 5, 6, ZoneId.of("Asia/Tokyo"));
 
     // InstantとZoneDateTimeの相互変換
     Instant i3 = z2.toInstant();
