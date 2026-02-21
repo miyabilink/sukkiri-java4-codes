@@ -4,8 +4,7 @@ public class Hero {
   /* … */
   public boolean equals(Object o) {
     if (this == o) { return true; }
-    if (o instanceof Hero) {
-      Hero h = (Hero)o;
+    if (o instanceof Hero h) {
       if (this.name.equals(h.name)) {
         return true;
       }
